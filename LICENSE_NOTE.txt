@@ -1,0 +1,1 @@
+No software license has been selected for this repository. All rights reserved by default until the author chooses and adds an appropriate LICENSE file. Third-party datasets, pretrained models and dependencies remain subject to their own licences and terms.
